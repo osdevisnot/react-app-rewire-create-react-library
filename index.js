@@ -48,7 +48,6 @@ const rewireCreateReactLibrary = (config, env) => {
      */
     config.plugins = [];
   }
-  console.log('==> config : ', config);
   return config;
 };
 
