@@ -1,4 +1,6 @@
 # react-app-rewire-create-react-library
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/osdevisnot/react-app-rewire-create-react-library.svg)](https://greenkeeper.io/)
 Use create-react-app to build react libraries.
 
 This gives you ability to reuse most of CRA setup for building your libraries.
