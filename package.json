@@ -1,0 +1,20 @@
+{
+  "name": "react-app-rewire-create-react-library",
+  "version": "0.1.0",
+  "description": "Use create-react-app to build react libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osdevisnot/react-app-rewire-create-react-library.git"
+  },
+  "keywords": [],
+  "author": "osdevisnot <osdevisnot@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osdevisnot/react-app-rewire-create-react-library/issues"
+  },
+  "homepage": "https://github.com/osdevisnot/react-app-rewire-create-react-library#readme"
+}
